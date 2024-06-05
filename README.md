@@ -17,6 +17,16 @@ Notebooks: Includes Revenue Services Lesotho Tax Prediction.ipynb, a Jupyter not
 Models: Contains the trained XGBoost model RSL_Model.model saved as model file.
 
 
+**Usage**
+
+To use the trained model for revenue prediction, follow these steps:
+
+Ensure you have the required dataset in CSV format. If not, replace the existing RSL Data.csv file in the data directory with your dataset.
+Open and run the Revenue Services Lesotho Tax Prediction.ipynb notebook located in the notebooks directory. This notebook contains detailed instructions and code for data preprocessing, model training, and evaluation.
+After running the notebook, the trained XGBoost model will be saved as RSL_Model.model in the models directory.
+You can now use the trained model for revenue prediction by loading it in your Python script or Jupyter notebook and providing input data.
+
+
 **Contributers**
 
 https://github.com/LeratoTheko
