@@ -6,7 +6,7 @@ This project aims to build a machine-learning model that can predict revenue val
 
 **Project Objective**
 
-The main objective of this project is to build a predictive model that can assist Revenue Services Lesotho in forecasting revenue values for various categories (e.g., taxes, duties, fees) in a specific year. By accurately predicting revenue, the organization can better plan its budget, allocate resources effectively, and optimize revenue collection strategies.
+The main objective of this project is to build a predictive model that can assist Revenue Services Lesotho in forecasting revenue values for various categories (e.g., tatal and non-total revenue, duties, fees) in a specific year. By accurately predicting revenue, the organization can better plan its budget, allocate resources effectively, and optimize revenue collection strategies.
 
 **Project Structure**
 
@@ -23,9 +23,9 @@ https://github.com/LeratoTheko
 
 https://github.com/Likhapha
 
-https://github.com/lemaoanalejone
+https://github.com/Lemaoana
 
-https://github.com/mohalemaphathe
+https://github.com/Mohale6
 
 
 
