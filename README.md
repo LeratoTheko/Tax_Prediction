@@ -12,3 +12,14 @@ Notebooks: Includes Revenue Services Lesotho Tax Prediction.ipynb, a Jupyter not
 
 Models: Contains the trained XGBoost model RSL_Model.model saved as model file.
 
+
+Contributers
+
+https://github.com/LeratoTheko
+
+https://github.com/Likhapha
+
+https://github.com/lemaoanalejone
+
+https://github.com/mohalemaphathe
+
